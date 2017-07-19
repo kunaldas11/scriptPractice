@@ -1,0 +1,4 @@
+*take an array and store the values of sorted cpu percentage.
+*take another array and store the values of pid numbers
+*run a loop to check if the cpu usage is above 70 percent
+ if found print the value of pid.
