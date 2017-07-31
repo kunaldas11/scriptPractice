@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "existing buckets are"
+echo "hello this is kunal"
 aws s3 ls
 read -p "Enter the bucket name : " buckName
 comp=$(aws s3 ls | grep -o "$buckName")
